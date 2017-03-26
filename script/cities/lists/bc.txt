@@ -1,0 +1,100 @@
+Abbotsford
+Aldergrove
+Aldergrove
+Armstrong
+Ashcroft
+Blind Bay
+Burns Lake			
+Cache Creek			
+Campbell River			
+Castlegar
+Chase			
+Chemainus			
+Chetwynd			
+Chilliwack			
+Courtenay			
+Cowichan Bay			
+Cranbrook			
+Creston			
+Crofton			
+Cultus Lake			
+Cumberland			
+Dallas			
+	Dawson Creek			
+	Deep Cove			
+	Duck Lake			
+	Duncan			
+	Elkford			
+	Enderby			
+	Fernie			
+	Fort Nelson			
+	Fort St. James			
+	Fort St. John			
+	Fraser Lake			
+	Fruitvale			
+	Gibsons			
+	Gold River			
+	Golden			
+	Grand Forks			
+	Harrison Hot Springs			
+	Hope			
+	Houston			
+	Invermere			
+	Kamloops			
+	Kelowna	 		
+	Kent			
+	Kimberley			
+	Kitimat			
+	Ladysmith			
+	Lake Cowichan			
+	Lillooet			
+	Lions Bay			
+	Logan Lake			
+	Lumby			
+	Mackenzie			
+	Merritt			
+	Mill Bay			
+	Miller's Landing			
+	Nakusp			
+	Nanaimo			
+	Nelson			
+	Oliver			
+	One Hundred Mile House			
+	Osoyoos			
+	Parksville			
+	Pemberton			
+	Penticton			
+	Port Alberni			
+	Port Hardy			
+	Port McNeill			
+	Powell River			
+	Prince George			
+	Prince Rupert			
+	Princeton			
+	Quesnel			
+	Revelstoke			
+	Roberts Creek			
+	Rossland			
+	Salmo			
+	Salmon Arm			
+	Sechelt			
+	Shawnigan			
+	Sicamous			
+	Smithers			
+	Sooke			
+	Sparwood			
+	Squamish			
+	Summerland			
+	Terrace			
+	Trail			
+	Tumbler Ridge			
+	Ucluelet			
+	Vancouver	 		
+	Vanderhoof			
+	Vernon			
+	Victoria	 		
+	Walnut Grove			
+	Welcome Beach			
+	Whistler			
+	White Rock			
+	Williams Lake

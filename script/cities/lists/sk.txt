@@ -1,0 +1,778 @@
+Abbey
+Aberdeen
+Abernethy
+Admiral
+Air Ronge
+Alameda
+Albertville
+Alida
+Allan
+Alsask
+Alvena
+Aneroid
+Annaheim
+Antler
+Arborfield
+Archerwill
+Arcola
+Ardath
+Ardill
+Arelee
+Arran
+Asquith
+Assiniboia
+Atwater
+Avonhurst
+Avonlea
+Aylesbury
+Aylsham
+Balcarres
+Balgonie
+Bangor
+Bankend
+Battleford
+Beatty
+Beaubier
+Beauval
+Beechy
+Belle Plaine
+Bellegarde
+Bengough
+Benson
+Bethune
+Bienfait
+Big Beaver
+Big River
+Biggar
+Birch Hills
+Birsay
+Bjorkdale
+Black Lake
+Bladworth
+Blaine Lake
+Blumenhof
+Borden
+Bracken
+Bradwell
+Bredenbury
+Briercrest
+Broadview
+Brock
+Broderick
+Bromhead
+Brooksby
+Brownlee
+Bruno
+Buchanan
+Buena Vista
+Buffalo Narrows
+Bulyea
+Burr
+Burstall
+Bushell Park
+Cabri
+Cadillac
+Calder
+Candiac
+Candle Lake
+Cando
+Canoe Narrows
+Canora
+Canwood
+Carievale
+Carlyle
+Carmel
+Carnduff
+Caronport
+Caron
+Carragana
+Carrot River
+CasaRio
+Central Butte
+Ceylon
+Chamberlain
+Chaplin
+Chelan
+Chitek Lake
+Choiceland
+Christopher Lake
+Churchbridge
+Clair
+Clavet
+Clearwater River
+Climax
+Cochin
+Coderre
+Codette
+Cole Bay
+Coleville
+Colonsay
+Congress
+Conquest
+Consul
+Coppersands
+Corman Park
+Corning
+Coronach
+Cowessess
+Craik
+Crane Valley
+Craven
+Creelman
+Creighton
+Crooked River
+Crystal Springs
+Cudworth
+Cumberland House
+Cupar
+Cut Knife
+Cymric
+D'Arcy Station
+Dafoe
+Dalmeny
+Danbury
+Davidson
+Debden
+Deer Valley
+Delisle
+Delmas
+Demaine
+Denare Beach
+Denholm
+Denzil
+Deschambault Lake
+Dilke
+Dillon
+Dinsmore
+Dodsland
+Dollard
+Domremy
+Dorintosh
+Drake
+Drinkwater
+Dubuc
+Duck Lake
+Dundurn
+Duval
+Dysart
+Earl Grey
+Eastend
+Eatonia
+Ebenezer
+Edam
+Edenwold
+Edgeley
+Elbow
+Elfros
+Elrose
+Elstow
+Emerald Park
+Endeavour
+Englefeld
+Ernfold
+Esterhazy
+Estevan
+Eston
+Eyebrow
+Fairlight
+Fairy Glen
+Fenwood
+Ferland
+Fife Lake
+Fillmore
+Findlater
+Fiske
+Flaxcombe
+Fleming
+Flintoft
+FoamLake
+Fond DuLac
+Forget
+FortQu' Appelle
+Fosston
+Fox Valley
+Francis
+Frenchman Butte
+Frobisher
+Frontier
+Fulda
+Furdale
+Gainsborough
+Gallivan
+Garrick
+Gerald
+Gladmar
+Glaslyn
+Glen Ewen
+Glenavon
+Glenbain
+Glenbush
+Glenside
+Glentworth
+Glidden
+Golden Prairie
+Goodeve
+Goodsoil
+Govan
+
+Grandora
+
+Grasswood
+
+Gravelbourg
+
+Grayson
+
+Gray
+
+Green Lake
+
+Grenfell
+
+Griffin
+
+Gronlid
+
+Guernsey
+
+Gull Lake
+
+Hafford
+
+Hagen
+
+Hague
+
+Halbrite
+
+Handel
+
+Hanley
+
+Harris
+
+Hawarden
+
+Hazel Dell
+
+Hazenmore
+
+Hazlet
+
+Hendon
+
+Henribourg
+
+Hepburn
+
+Herbert
+
+Herschel
+
+Heward
+
+Hodgeville
+
+Hoey
+
+Holbein
+
+Holdfast
+
+Homefield
+
+Hoosier
+
+Hudson Bay
+
+Humboldt
+
+Hyas
+
+Ile-A-La-Crosse
+
+Imperial
+
+IndianHead
+
+Invermay
+
+Ituna
+
+Jackfish Lake
+
+Jansen
+
+Kamsack
+
+Kayville
+
+Keeler
+
+Kelfield
+
+Kelliher
+
+Kelso
+
+Kelvington
+
+Kenaston
+
+Kendal
+
+Kennedy
+
+Kenosee Lake
+
+Kerrobert
+
+Killaly
+
+Kincaid
+
+Kindersley
+
+Kinistino
+
+Kinoosao
+
+Kipling
+
+Kisbey
+
+Kronau
+
+Krydor
+
+Kuroki
+
+Kyle
+
+La Loche
+
+La Ronge
+
+Lac Vert
+
+Lafleche
+
+Laird
+
+Lake Alma
+
+Lake Lenore
+
+Lampman
+
+Lancer
+
+Landis
+
+Langbank
+
+Langenburg
+
+Langham
+
+Lang
+
+Lanigan
+
+Lashburn
+
+Leader
+
+Leask
+
+Lebret
+
+Lemberg
+
+Leoville
+
+Leross
+
+Leroy
+
+Leslie
+
+Lestock
+
+Lewvan
+
+Liberty
+
+Liebenthal
+
+Limerick
+
+Lintlaw
+
+Lipton
+
+Livelong
+
+Lloydminster
+
+Lone Rock
+
+Loon Lake
+
+Loreburn
+
+Loverna
+
+Love
+
+Lucky Lake
+
+Lumsden
+
+Luseland
+
+Macdowall
+
+Macklin
+
+Macnutt
+
+Macoun
+
+Macrorie
+
+Maidstone
+
+Major
+
+Makwa
+
+Mankota
+
+Manor
+
+Mantario
+
+Maple Creek
+
+Marcelin
+
+Marengo
+
+Margo
+
+Markinch
+
+Marquis
+
+Marsden
+
+Marshall
+
+Martensville
+
+Maryfield
+
+Mayfair
+
+Maymont
+
+Mazenod
+
+Mccord
+
+Mckague
+
+Mclean
+
+Mcmahon
+
+Meacham
+
+Meadow Lake
+
+Meath Park
+
+Medstead
+
+Melfort
+
+Melville
+
+Mendham
+
+Meota
+
+Mervin
+
+Meskanaw
+
+Meyronne
+
+Midale
+
+Middle Lake
+
+Mikado
+
+Milden
+
+Mildred
+
+Milestone
+
+Minton
+
+Mistatim
+
+Mont Nebo
+
+Montmartre
+
+Montreal Lake
+
+Moose Jaw
+
+Moosomin
+
+Morse
+
+Mortlach
+
+Mossbank
+
+Mozart
+
+Muenster
+
+Muskoday
+
+Naicam
+
+Neidpath
+
+Neilburg
+
+Netherhill
+
+Neudorf
+
+Neville
+
+Nipawin
+
+Nokomis
+
+Norquay
+North Battleford
+North Portal
+North Weyburn
+Northgate
+Nut Mountain
+Odessa
+Ogema
+Okla
+Onion Lake
+Orkney
+Ormiston
+Osage
+Osler
+Oungre
+Outlook
+Oxbow
+Paddockwood
+Pakwaw Lake
+Pambrun
+Pangman
+Paradise Hill
+Parkside
+Parry
+Patuanak
+Paynton
+Peebles
+Pelican Narrows
+Pelly
+Pennant Station
+Pense
+Perdue
+Piapot
+Pierceland
+Pilger
+Pilot Butte
+Pinehouse Lake
+Plato
+Pleasantdale
+Plenty
+Plunkett
+Ponteix
+Porcupine Plain
+Prairie River
+Preeceville
+Prelate
+Prince Albert
+Prud' Homme
+Punnichy
+Qu'Appelle
+Quill Lake
+Quinton
+Rabbit Lake
+Radisson
+Radville
+Rama
+Rapid View
+Raymore
+Red Earth
+Redvers
+Regina Beach
+Regina
+Rhein
+Riceton
+Richardson
+Richmound
+Ridgedale
+Riverhurst
+Riverside Estates
+Robsart
+Rocanville
+Rockglen
+Rockhaven
+Rokeby
+Rose Valley
+Rosetown
+Rosthern
+Rouleau
+Saltcoats
+Sandy Bay
+Saskatoon
+Sceptre
+Scott
+Scout Lake
+Sedley
+Semans
+Senlac
+Shamrock
+Shaunavon
+Sheho
+Shell Lake
+Shellbrook
+Shipman
+Silton
+Simmie
+Simpson
+Sintaluta
+Smeaton
+Smiley
+Snowden
+Sonningdale
+Southend
+Southey
+Sovereign
+Spalding
+Speers
+Spiritwood
+Spring Valley
+Springside
+Spruce Home
+Spruce Lake
+Spy Hill
+St Benedict
+St Brieux
+St Denis
+St Gregor
+St IsidoreDeBellevue
+St Louis
+St Walburg
+Stanley Mission
+Star City
+Steelman
+Stenen
+Stewart Valley
+Stockholm
+Stony Rapids
+Storthoaks
+Stoughton
+Strasbourg
+Strongfield
+Sturgeon Landing
+Sturgis
+Success
+Swift Current
+Sylvania
+Tantallon
+Tessier
+Theodore
+Timber Bay
+Tisdale
+Togo
+Tompkins
+Torquay
+Tramping Lake
+Tribune
+Trossachs
+Tuffnell
+Tugaske
+Turnor Lake
+Turtleford
+Tuxford
+Tyner
+Tyvan
+Unity
+Uranium City
+ValMarie
+Vanguard
+Vanscoy
+Vawn
+Verigin
+Verwood
+Vibank
+Viceroy
+Victoire
+Vidora
+Viscount
+Vonda
+Wadena
+Wakaw
+Waldeck
+Waldheim
+Wapella
+Warman
+Waseca
+Waskesiu Lake
+Waterhen Lake
+Watrous
+Watson
+Wauchope
+Wawota
+Webb
+Weekes
+Weirdale
+Weldon
+Welwyn
+Weyakwin
+Weyburn
+White Bear
+White City
+White Fox
+Whitewood
+Wilcox
+Wilkie
+Willow Bunch
+Willowbrook
+Windthorst
+Wiseton
+Wishart
+Wollaston Lake
+Wolseley
+WoodMountain
+Woodrow
+Wroxton
+Wymark
+Wynyard
+Yarbo
+Yellow Creek
+Yellow Grass
+Yorkton
+Young
+Zealandia
+Zehner
+ZenonPark

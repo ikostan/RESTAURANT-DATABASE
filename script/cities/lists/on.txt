@@ -1,0 +1,165 @@
+Ajax
+
+Amherstburg
+
+Arnprior
+
+Aurora
+
+Aylmer
+
+Barrie
+
+Belleville
+
+Bradford West Gwillimbury
+
+Brampton
+
+Brantford
+
+Brockville
+
+Burlington
+
+Cambridge
+	
+Carleton Place
+
+Cobourg
+
+Collingwood
+
+Cornwall
+
+Dryden
+
+Fort Erie
+
+Fort Frances
+
+Gananoque
+
+Georgina
+
+Goderich
+
+Grimsby
+
+Guelph
+
+Halton Hills
+
+Hamilton
+
+Hanover
+
+Hawkesbury
+
+Ingersoll
+
+Innisfil
+
+Kingston
+
+Kitchener
+
+LaSalle
+
+Lincoln
+
+London
+
+Markham
+
+Midland
+
+Milton
+
+Mississauga
+
+New Tecumseth
+
+Newmarket
+
+Niagara Falls
+
+Niagara-on-the-Lake
+
+North Bay
+
+Oakville
+
+Orangeville
+
+Orillia
+
+Oshawa
+
+Ottawa
+
+Owen Sound
+
+Parry Sound
+
+Pelham
+
+Pembroke
+
+Penetanguishene
+
+Perth
+
+Peterborough
+
+Petrolia
+
+Pickering
+
+Port Colborne
+
+Renfrew
+
+Richmond Hill
+
+Sarnia
+
+Sault Ste. Marie
+
+Shelburne
+
+Smiths Falls
+
+St. Catharines
+
+St. Marys
+
+St. Thomas
+
+Stratford
+
+Tecumseh
+
+Thorold
+
+Thunder Bay
+
+Tillsonburg
+
+Toronto
+	
+Vaughan
+
+Wasaga Beach
+
+Waterloo
+
+Welland
+
+Whitby
+
+Whitchurch-Stouffville
+
+Windsor
+
+Woodstock

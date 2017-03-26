@@ -1,0 +1,14 @@
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Alberton', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Cardigan', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Charlottetown - Chamber of Commerce', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Cornwall', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Crapaud Chamber of Commerce', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Georgetown', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Kensington', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Miltonvale Park', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Montague - Chamber of Commerce', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Murray River', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('O\'Leary', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Souris', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Stratford', true, 10);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Summerside - Chamber of Commerce', true, 10);

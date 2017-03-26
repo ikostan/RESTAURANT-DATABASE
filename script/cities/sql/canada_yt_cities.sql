@@ -1,0 +1,18 @@
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Beaver Creek', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Burwash Landing', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Carcross', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Carmacks', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Dawson', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Destruction Bay', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Faro', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Haines Junction', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Marsh Lake', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Mayo', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Old Crow', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Ottaw', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Pelly Crossing', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Ross River', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Tagish', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Teslin', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Watson Lake', true, 13);
+INSERT INTO city(`city_name`, `isActive`, `provance_provance_id`) VALUES('Whitehorse', true, 13);
