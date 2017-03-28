@@ -1,0 +1,13 @@
+USE grp24;
+-- UPDATE item_subtype SET item_type_item_type_id = 1 WHERE item_subtype_name = 'Aquamarine'; 
+-- UPDATE item_subtype SET item_type_item_type_id = 1 WHERE item_subtype_name = 'Indigo';
+-- UPDATE item_subtype SET item_type_item_type_id = 2 WHERE item_subtype_name = 'Blue';
+-- UPDATE item_subtype SET item_type_item_type_id = 2 WHERE item_subtype_name = 'Maroon';  
+-- UPDATE item_subtype SET item_type_item_type_id = 3 WHERE item_subtype_name = 'Crimson';
+-- UPDATE item_subtype SET item_type_item_type_id = 3 WHERE item_subtype_name = 'Khaki';
+-- UPDATE item_subtype SET item_type_item_type_id = 4 WHERE item_subtype_name = 'Fuscia';
+-- UPDATE item_subtype SET item_type_item_type_id = 4 WHERE item_subtype_name = 'Mauv';
+-- UPDATE item_subtype SET item_type_item_type_id = 5 WHERE item_subtype_name ='Goldenrod';
+-- UPDATE item_subtype SET item_type_item_type_id = 5 WHERE item_subtype_name = 'Orange';
+-- UPDATE item_subtype SET item_type_item_type_id = 6 WHERE item_subtype_name NOT IN ('Orange', 'Mauv', 'Khaki', 'Maroon', 'Indigo', 'Fuscia', 'Goldenrod', 'Crimson', 'Blue', 'Aquamarine');
+SELECT * FROM grp24.item_subtype;
