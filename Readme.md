@@ -1,4 +1,4 @@
-#RESTAURANT DATABASE
+# RESTAURANT DATABASE
 
   The “Restaurant Database” project aims to store information regarding average restaurant activities and resources such as orders, items, quantities, prices, categories, suppliers, phone numbers, and addresses. 
   The database design would provide flexibilities in terms of adding and disabling of a single item and whole categories as well. The database design would also provide an efficient data system in terms of CRUD capabilities.
